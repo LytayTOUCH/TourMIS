@@ -1,10 +1,13 @@
-# Script to Setting Up RAILS Server on Ubuntu Server 15.10
+# TourMIS Project
 
-#### Usage
+#### Project Specification
 
-* Run script: change file mode into execution
-* Command: $ sudo chmod +x setup-ROR.sh
+* Ruby Version: ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
+* Rails Version: 4.2.6
+* Database Engine: psql (PostgreSQL) 9.4.7
 
-#### Setup command
+#### Database Connection Account for Local Development
 
-* Command: $ ./setup-ROR.sh
+* HOST: localhost
+* USERNAME: postgres
+* PASSWORD: me@1234567890
